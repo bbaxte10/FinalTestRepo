@@ -1,1 +1,5 @@
-This user is not authorized to access this file
+<<<<<<< HEAD
+This user is authorized to access this file
+=======
+This user is authorized to access this file
+>>>>>>> feature-user-auth
